@@ -1,7 +1,5 @@
 ## Hello 👋<br>
-<br>
-I'm Lisa Siefker, a student in Ohio State University's [Masters in Translational Data Analytics program] (https://tdai.osu.edu/education/masters-translational-data-analytics). <br>
-<br>
+I'm Lisa Siefker, a student in Ohio State University's [Masters in Translational Data Analytics program](https://tdai.osu.edu/education/masters-translational-data-analytics).
 I'm currently learning to use R and Python to translate technical data into meaningful data stories that people can easily understand. <br>
 
 <!--
